@@ -1,2 +1,2 @@
-# inspiring-sutherland-mu9fti
+# instagram clone 
 Created with CodeSandbox
